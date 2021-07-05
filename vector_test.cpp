@@ -21,6 +21,4 @@ int main(){
     }
     // vector <string> s1 {"he","llo","wor","ld"};
     
-    system("pause");
-    return 0;
-}
+} 
